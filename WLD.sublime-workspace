@@ -1,0 +1,729 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"H_m"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"v",
+				"v10"
+			],
+			[
+				"get",
+				"getRho"
+			],
+			[
+				"a",
+				"altitude"
+			],
+			[
+				"oz",
+				"ozone_P"
+			],
+			[
+				"tr",
+				"tropopause_P"
+			],
+			[
+				"ss",
+				"startosphere_T"
+			],
+			[
+				"s",
+				"startosphere_P"
+			],
+			[
+				"a_",
+				"a_troposphere"
+			],
+			[
+				"ge",
+				"getT"
+			],
+			[
+				"se",
+				"sealevel_P"
+			],
+			[
+				"seal",
+				"sealevel_T"
+			],
+			[
+				"sol",
+				"solution"
+			],
+			[
+				"so",
+				"solution"
+			],
+			[
+				"solu",
+				"solution"
+			],
+			[
+				"d",
+				"deque"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"card",
+				"cardList"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"merg",
+				"mergeSort4"
+			],
+			[
+				"mer",
+				"mergeSort4"
+			],
+			[
+				"drop",
+				"dropx"
+			],
+			[
+				"merge",
+				"mergeSort"
+			],
+			[
+				"parent",
+				"parent_tags"
+			],
+			[
+				"pa",
+				"parent_tags"
+			],
+			[
+				"ca",
+				"careerName"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"advic",
+				"advices"
+			],
+			[
+				"care",
+				"careerName"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"career",
+				"careerName"
+			],
+			[
+				"by",
+				"by_parent_career"
+			],
+			[
+				"class",
+				"classmethod"
+			],
+			[
+				"caree",
+				"careerName"
+			],
+			[
+				"m",
+				"Model"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-repeat"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"image",
+				"image-box"
+			],
+			[
+				"tab",
+				"table-row"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"bo",
+				"border-width"
+			],
+			[
+				"lo",
+				"login-area"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"mai",
+				"MainHandler"
+			],
+			[
+				"No",
+				"None"
+			],
+			[
+				"u",
+				"url"
+			],
+			[
+				"ma",
+				"MainHandler"
+			],
+			[
+				"vis",
+				"visability"
+			],
+			[
+				"vi",
+				"visablity"
+			],
+			[
+				"read",
+				"read_only"
+			],
+			[
+				"red",
+				"redirect"
+			],
+			[
+				"logg",
+				"logging"
+			],
+			[
+				"f",
+				"full_url"
+			],
+			[
+				"g",
+				"group"
+			],
+			[
+				"co",
+				"compile"
+			],
+			[
+				"L",
+				"logging"
+			],
+			[
+				"c",
+				"content"
+			],
+			[
+				"url",
+				"url1"
+			],
+			[
+				"de",
+				"debug"
+			],
+			[
+				"log",
+				"logging"
+			],
+			[
+				"n",
+				"nPath"
+			],
+			[
+				"b",
+				"by_url"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"str",
+				"StringProperty"
+			],
+			[
+				"st",
+				"StringProperty"
+			],
+			[
+				"M",
+				"MainHandler"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Shimaa/Desktop/AlgoAndDataStruct/Python/insertionSort.py",
+			"settings":
+			{
+				"buffer_size": 154,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Shimaa/Desktop/air.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Shimaa/Desktop/AlgoAndDataStruct/Python/mergeSort.py",
+			"settings":
+			{
+				"buffer_size": 2839,
+				"line_ending": "Windows",
+				"name": "def mergeSort(A):"
+			}
+		},
+		{
+			"file": "/C/Users/Shimaa/Desktop/AlgoAndDataStruct/Python/hashTable.py",
+			"settings":
+			{
+				"buffer_size": 506,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Shimaa/Desktop/WeberLocalDescriptors.py",
+			"settings":
+			{
+				"buffer_size": 1241,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"gbs",
+				"SublimeGDB: Start Debugging"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Push"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Shimaa/Desktop/test.py",
+		"/C/Users/Shimaa/Desktop/air",
+		"/C/Users/Shimaa/Desktop/BBC.The.Story.of.Ireland.1of5.Age.of.Invasions.XviD.AC3.MVGroup.org.srt",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/careeradvice/templates/front.html",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/careeradvice/static/main.css",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/careeradvice/templates/base.html",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/careeradvice/templates/career.html",
+		"/C/Users/Shimaa/Desktop/balanceBrackets.py",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/careeradvice/main.py",
+		"/C/Users/Shimaa/Desktop/balance brackets.py",
+		"/C/Users/Shimaa/Desktop/scrabbleChallenge.py",
+		"/C/Users/Shimaa/Desktop/mergeSort.hs",
+		"/C/Users/Shimaa/Desktop/nqueens.hs",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/careeradvice/templates/signup.html",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/careeradvice/templates/login.html",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/hw3/helloworld.py",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/careeradvice/static/main.js",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/careeradvice/templates/newcareer.html",
+		"/C/Users/Shimaa/Desktop/hw0part3.rb",
+		"/C/Users/Shimaa/Desktop/hw0part2.rb",
+		"/C/Users/Shimaa/Desktop/hw0part1.rb",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/careeradvice/util.py",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/careeradvice/templates/career",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/final/main.py",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/careeradvice/user.py",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/careeradvice/templates/main.html",
+		"/C/Users/Shimaa/Desktop/hw4/templates/front.html",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/careeradvice/static/front.html",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/hw3/templates/blog.html",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/carreradvice/front.html",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/carreradvice/main.html",
+		"/C/Users/Shimaa/Desktop/hw4/templates/base.html",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/final/templates/history",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/final/user.py",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/hw3/templates/reviewpost.html",
+		"/C/Users/Shimaa/Desktop/JS/main.html",
+		"/C/Users/Shimaa/Desktop/JS/main.js",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/final/util.py",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/final/templates/login.html",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/final/templates/edit.html",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/final/templates/wiki.html",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/final/static/main.css",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/final/templates/signup.html",
+		"/C/Users/Shimaa/Desktop/hw4/blog.py",
+		"/C/Users/Shimaa/Desktop/OnlineLearning/WebBlog/final/main.pyc"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"I",
+			"I[0-9]",
+			"I6",
+			"I[0-9]",
+			"j",
+			"form",
+			"from",
+			";\n",
+			"user",
+			"filter",
+			"all",
+			"Arial",
+			"border",
+			"boder",
+			"bodre",
+			" ;",
+			";\n",
+			" \n",
+			"none",
+			"light",
+			"_edit",
+			"edit",
+			"DEBUG",
+			"debug",
+			"self.user",
+			"params",
+			"user"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Shimaa/Desktop/AlgoAndDataStruct/Python/insertionSort.py",
+					"settings":
+					{
+						"buffer_size": 154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								154
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Shimaa/Desktop/air.py",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Shimaa/Desktop/AlgoAndDataStruct/Python/mergeSort.py",
+					"settings":
+					{
+						"buffer_size": 2839,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								391,
+								391
+							]
+						],
+						"settings":
+						{
+							"auto_name": "def mergeSort(A):",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Shimaa/Desktop/AlgoAndDataStruct/Python/hashTable.py",
+					"settings":
+					{
+						"buffer_size": 506,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								419,
+								420
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Shimaa/Desktop/WeberLocalDescriptors.py",
+					"settings":
+					{
+						"buffer_size": 1241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								72
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 30.0
+	},
+	"output.git":
+	{
+		"height": 30.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
